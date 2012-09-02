@@ -5,8 +5,5 @@ hahaha
 jajaja
 
 ## ver 1.0
-<<<<<<< HEAD
-=======
 
 tagged
->>>>>>> master
